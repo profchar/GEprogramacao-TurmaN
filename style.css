@@ -1,0 +1,26 @@
+body{
+	background: #CCCCCC 
+}
+
+header, footer{
+	background-color: #B533E8
+}
+
+main{
+	background-color: #E84D33
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	font-size: 20px;
+	color: black;
+}
+
+p{
+	color: blue;
+	font-size: 15px;
+	margin-right: 20%;
+}
