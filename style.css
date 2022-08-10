@@ -17,10 +17,24 @@ h1{
 h3{
 	font-size: 20px;
 	color: black;
+	padding-left: 40px;
 }
 
+#paragrafodiferente{
+	font-size: 50px;
+	color: yellow;
+}
 p{
 	color: blue;
 	font-size: 15px;
 	margin-right: 20%;
+	padding: 60px;
+}
+
+#cafe{
+	display: block;
+	margin: 0px auto;
+	height: 200px;
+	border: 2px solid;
+	padding: 10px
 }
