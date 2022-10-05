@@ -3,7 +3,12 @@ Projeto desenvolvido no grupo de estudos formadores em ação jornada 3
 
 
 
+
+
 Projeto em construção.
+
+
+
 
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
