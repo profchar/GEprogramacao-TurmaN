@@ -1,40 +1,33 @@
-body{
-	background: #CCCCCC 
+body {
+	background-color: #83bf34;
 }
 
-header, footer{
-	background-color: #B533E8
+header, footer {
+ 	background-color: rgb(242, 90,138);
+
 }
 
-main{
-	background-color: #E84D33
+main {
+
+	background-color: #acf497;
+}
+h1  {
+	 text-align: center;
+	 color: #black;
+	
 }
 
-h1{
-	text-align: center;
+h3 {
+	color:black;
 }
 
-h3{
+b {
+	color:rgb(242, 90, 138) ;
 	font-size: 20px;
-	color: black;
-	padding-left: 40px;
 }
 
-#paragrafodiferente{
-	font-size: 50px;
-	color: yellow;
-}
-p{
-	color: blue;
-	font-size: 15px;
-	margin-right: 20%;
-	padding: 60px;
-}
+i {
+	color: #32CD32;
+	font-size: 30px;
 
-#cafe{
-	display: block;
-	margin: 0px auto;
-	height: 200px;
-	border: 2px solid;
-	padding: 10px
 }
