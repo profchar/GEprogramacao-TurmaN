@@ -7,14 +7,43 @@ header, footer {
 
 }
 
+h1, h2, h3{
+	margin: 10px;
+	padding: 10px;
+	font-size: 1.5em;
+	font-style: italic;
+	font-weight: bold;
+	font-family:'Noto Serif', serif;
+}
+
+p, ul{
+	margin: 4px;
+	padding: 4px;
+}
+
+nav li{
+	list-style: none;
+	display: inline;
+	margin: 20px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+	margin-left: 10px;
+}
+
 main {
 
 	background-color: #acf497;
 }
+
 h1  {
 	 text-align: center;
 	 color: #black;
-	
 }
 
 h3 {
