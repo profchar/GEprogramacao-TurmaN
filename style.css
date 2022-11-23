@@ -41,6 +41,23 @@ main {
 	background-color: #acf497;
 }
 
+section{
+	background-color: red;
+}
+
+section.momento2{
+	background-color: yellow;
+}
+
+.aspectos_imagem{
+	width: 200px;
+	height: inherit;
+}
+.aspectos li{
+	border: black 6px;
+	border-style: dotted;
+}
+
 h1  {
 	 text-align: center;
 	 color: #black;
